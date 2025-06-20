@@ -40,7 +40,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" />
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" alt="Tailwind CSS" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/vba-1-555464.png" width="40" alt="VBA" />
 </p>
