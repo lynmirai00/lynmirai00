@@ -42,9 +42,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" />
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" alt="Tailwind CSS" />
 </p>
-
----
-
-## 🏆 Top Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lynmirai00&layout=compact&langs_count=8)](https://github.com/lynmirai00/github-readme-stats)
