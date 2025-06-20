@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Nhi!
 
-🔹 I'm Nhi from Vietnam 🇻🇳, currently living in Japan 🇯🇵  
+🔹 I'm Nhi from Vietnam, currently living in Japan  
 🔹 I enjoy building Android apps and love working with Android Studio
 
 ---
