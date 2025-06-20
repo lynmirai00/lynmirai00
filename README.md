@@ -1,24 +1,15 @@
 ## 👋 Hi there, I'm Nhi!
 
-🇻🇳 I'm a Vietnamese Android developer currently living in Japan 🇯🇵.  
-I build modern, user-friendly mobile apps using **Kotlin** and **Jetpack Compose**.
-
----
-
-### 🔧 Tech Stack
-
-- **Android Development:** Kotlin, Jetpack Compose, Android Studio
-- **Databases:** Firebase (Realtime DB, Firestore), MySQL, SQL Server
-- **Web:** HTML/CSS, JS, React (basic), PHP
-- **Tools:** Git, GitHub, Figma
+- I'm Nhi from Vietnam, now based in Japan.
+- I love making Android apps — it’s something I genuinely enjoy doing with Android Studio.
 
 ---
 
 ### 🚀 What I'm Doing
 
-- 🔭 Working on personal Android projects using Firebase & Compose
-- 🌱 Exploring advanced UI/UX patterns and Clean Architecture
-- 💡 Occasionally building web tools for internal use or experiments
+- 👨‍💻 Developing personal Android apps to gain real experience
+- 🌱 Continuously learning to strengthen both technical and design skills
+- 💼 Building a solid foundation to work as a freelance developer in the near future
 
 ---
 
@@ -29,22 +20,25 @@ I build modern, user-friendly mobile apps using **Kotlin** and **Jetpack Compose
 
 ---
 
-### ⭐ Fun Fact
-
-I love building things that are simple, clean, and helpful.  
-Currently looking for freelance opportunities and collaborations!
-
-
 ### 🛠️ My Skills
 
+#### 🔹 Main Skills
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
 </p>
 
-
+#### 🔹 Side Skills
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" alt="Tailwind CSS" />
+</p>
