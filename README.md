@@ -13,6 +13,16 @@
 
 ---
 
+### 🎯 Personal Interests
+
+- 🎵 Listening to music — I especially focus on the melody and lyrics, feeling that life would be incomplete without music  
+- 📺 Watching anime and immersing myself in its unique stories and art  
+- 📸 Photography and videography to capture meaningful moments  
+- 🎨 Drawing, mainly mandalas, as a way to relax and express creativity  
+- 🔮 Interested in astrology, tarot, and numerology — exploring the mysteries beyond everyday life  
+
+---
+
 ### 📫 Contact
 
 🔹 Email: `lynmirai00@gmail.com`  
