@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Nhi!
 
-- I'm Nhi from Vietnam, now based in Japan.
+#### 🔹 I'm Nhi from Vietnam, now based in Japan.
 - I love making Android apps — it’s something I genuinely enjoy doing with Android Studio.
 
 ---
