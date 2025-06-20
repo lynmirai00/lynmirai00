@@ -1,28 +1,28 @@
 ## 👋 Hi there, I'm Nhi!
 
-#### 🔹 I'm Nhi from Vietnam, now based in Japan.
-- I love making Android apps — it’s something I genuinely enjoy doing with Android Studio.
+🔹 I'm Nhi from Vietnam, now based in Japan.
+🔹 I love making Android apps — it’s something I genuinely enjoy doing with Android Studio.
 
 ---
 
 ### 🚀 What I'm Doing
 
-- 👨‍💻 Developing personal Android apps to gain real experience
-- 🌱 Continuously learning to strengthen both technical and design skills
-- 💼 Building a solid foundation to work as a freelance developer in the near future
+🔹 👨‍💻 Developing personal Android apps to gain real experience
+🔹 🌱 Continuously learning to strengthen both technical and design skills
+🔹 💼 Building a solid foundation to work as a freelance developer in the near future
 
 ---
 
 ### 📫 Contact
 
-- Email: `lynmirai00@gmail.com`
-- GitHub: [lynmirai00](https://github.com/lynmirai00)
+🔹 Email: `lynmirai00@gmail.com`
+🔹 GitHub: [lynmirai00](https://github.com/lynmirai00)
 
 ---
 
 ### 🛠️ My Skills
 
-- Main Skills
+🔹 Main Skills
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" />
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
 </p>
 
-- Side Skills
+🔹 Side Skills
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
