@@ -24,7 +24,7 @@ I build modern, user-friendly mobile apps using **Kotlin** and **Jetpack Compose
 
 ### 📫 Contact
 
-- Email: `your-email@example.com`
+- Email: `lynmirai00@gmail.com`
 - GitHub: [lynmirai00](https://github.com/lynmirai00)
 
 ---
