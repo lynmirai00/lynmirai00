@@ -1,21 +1,21 @@
 ## 👋 Hi there, I'm Nhi!
 
-🔹 I'm Nhi from Vietnam, now based in Japan.
-🔹 I love making Android apps — it’s something I genuinely enjoy doing with Android Studio.
+🔹 I'm Nhi from Vietnam, now based in Japan  
+🔹 I love making Android apps — it’s something I genuinely enjoy doing with Android Studio
 
 ---
 
 ### 🚀 What I'm Doing
 
-🔹 👨‍💻 Developing personal Android apps to gain real experience
-🔹 🌱 Continuously learning to strengthen both technical and design skills
+🔹 👨‍💻 Developing personal Android apps to gain real experience  
+🔹 🌱 Continuously learning to strengthen both technical and design skills  
 🔹 💼 Building a solid foundation to work as a freelance developer in the near future
 
 ---
 
 ### 📫 Contact
 
-🔹 Email: `lynmirai00@gmail.com`
+🔹 Email: `lynmirai00@gmail.com`  
 🔹 GitHub: [lynmirai00](https://github.com/lynmirai00)
 
 ---
