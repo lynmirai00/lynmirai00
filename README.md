@@ -9,17 +9,7 @@
 
 🔹 Developing personal Android apps to gain hands-on experience  
 🔹 Continuously learning to strengthen both technical and design skills  
-🔹 Building a solid foundation to become a freelance developer in the near future
-
----
-
-### 🎯 Personal Interests
-
-- 🎵 Listening to music — I especially focus on the melody and lyrics, feeling that life would be incomplete without music  
-- 📺 Watching anime and immersing myself in its unique stories and art  
-- 📸 Photography and videography to capture meaningful moments  
-- 🎨 Drawing, mainly mandalas, as a way to relax and express creativity  
-- 🔮 Interested in astrology, tarot, and numerology — exploring the mysteries beyond everyday life  
+🔹 Building a solid foundation to become a freelance developer in the near future 
 
 ---
 
